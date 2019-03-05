@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/AirlineRoutes.db</file>
+        <file>res/Earthmap.jpg</file>
+    </qresource>
+</RCC>
